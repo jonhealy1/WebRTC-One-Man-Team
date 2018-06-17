@@ -1,3 +1,5 @@
+//based off this tutorial --- https://codelabs.developers.google.com/codelabs/webrtc-web/#3
+
 'use strict';
 
 // On this codelab, you will be streaming only video (video: true).
