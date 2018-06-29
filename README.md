@@ -8,7 +8,9 @@ to run:
 
 install node.js
 
-from terminal:
+download this project 
+
+from terminal (navigate to project folder):
 
 npm install
 
